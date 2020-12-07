@@ -144,6 +144,6 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
 
-        app:srcCompat="@drawable/baseline_save_black_18dp"
+        app:srcCompat="@drawable/save"
         app:tint="@color/white" />
 </androidx.constraintlayout.widget.ConstraintLayout>
